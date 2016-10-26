@@ -1,0 +1,59 @@
+@media (max-width: 767px) {
+    .main-header .navbar-right {
+        float: none;
+    }
+}
+
+.content-wrapper .content-header {
+    margin-top: 50px;
+}
+
+.skin-blue .main-header .logo {
+    background-color: #991818;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #991818;
+}
+
+.skin-blue .main-header a {
+    color: #F7F7F7;
+    /*font and icon color*/
+}
+
+.skin-blue .wrapper {
+    background-color: #F7F7F7;
+    background-image: url(http://vignette2.wikia.nocookie.net/youtaites/images/a/a9/Background-radial-gradient-dark.jpg/revision/latest?cb=20150214024058);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+.content {
+    background-color: #f2f2f2;
+}
+
+.skin-blue .content-header {
+    background-color: #f2f2f2;
+}
+
+.content-wrapper {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+.logo-lg {
+    width: 150px;
+    padding-left: 0px;
+    margin-left: 80px;
+}
+
+.navbar-custom-menu {
+    margin-right: 90px;
+}
+.main-footer{	
+    border-top-width: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #f2f2f2;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
